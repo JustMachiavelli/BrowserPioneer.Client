@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserPioneer.Client", "BrowserPioneer.Client.csproj", "{B868D852-A700-4ED5-A6DF-6960500A30EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappreeTool", "..\HappreeTool\HappreeTool.csproj", "{9325F9C1-BDBE-4387-925F-2C6E9CE6651A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserPioneer.Jav.Client", "..\BrowserPioneer.Jav.Client\BrowserPioneer.Jav.Client.csproj", "{7AA3FBF3-CA69-4D61-8280-EECAF3845D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B868D852-A700-4ED5-A6DF-6960500A30EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B868D852-A700-4ED5-A6DF-6960500A30EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B868D852-A700-4ED5-A6DF-6960500A30EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B868D852-A700-4ED5-A6DF-6960500A30EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9325F9C1-BDBE-4387-925F-2C6E9CE6651A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9325F9C1-BDBE-4387-925F-2C6E9CE6651A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9325F9C1-BDBE-4387-925F-2C6E9CE6651A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9325F9C1-BDBE-4387-925F-2C6E9CE6651A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA3FBF3-CA69-4D61-8280-EECAF3845D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA3FBF3-CA69-4D61-8280-EECAF3845D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA3FBF3-CA69-4D61-8280-EECAF3845D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA3FBF3-CA69-4D61-8280-EECAF3845D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
