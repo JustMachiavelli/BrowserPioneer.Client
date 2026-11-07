@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\MyProjects\HappreeTool\HappreeTool.csproj" />
       <ProjectReference Include="..\HappreeTool\HappreeTool.csproj" />
     </ItemGroup>
 
