@@ -4,6 +4,14 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>BrowserPioneer.Client</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>BeHappree</Authors>
+        <Description>Personal general-purpose .NET utility library.</Description>
+
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageOutputPath>bin\Release\Packages</PackageOutputPath>
     </PropertyGroup>
 
     <ItemGroup>
