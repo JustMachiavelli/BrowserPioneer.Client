@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\HappreeTool\HappreeTool.csproj" />
+      <PackageReference Include="HappreeTool" Version="1.0.0" />
     </ItemGroup>
 
 </Project>
